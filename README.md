@@ -16,7 +16,7 @@ class akonBRO:
         self.name = 'Md. Sabbir Akon'
         self.linkedin = 'https://www.linkedin.com/in/akon-sabbir/'
         self.facebook = 'https://www.facebook.com/sabbir.akon21/'
-        self.email = 'sabbirakonuumb@gmail.com'  # Adjusted indentation
+        self.email = 'sabbirakonuumb@gmail.com' 
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
             'backend': ['Python', 'PHP', 'Django', 'Laravel', 'NodeJS'],
