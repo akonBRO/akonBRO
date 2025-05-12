@@ -51,7 +51,7 @@ if __name__ == '__main__':
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akonbro" alt="akonbro" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akonbro&show_icons=true&locale=en" alt="akonbro" /></p> <p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akonbro&show_icons=true&locale=en&layout=compact" alt="akonbro" /></p>
+
 
 
 
