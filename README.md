@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Sabbir Akon</h1>
+<h1 align="center">Hi, I'm Md. Sabbir Akon</h1>
 <h3 align="center">A passionate ML/AI enthusiast and Web developer from Bangladesh</h3>
 
 ![](https://github.com/akonBRO/akonBRO/blob/f76aa36916f11ebd51c9fd8874c4af051d4fb269/sabbirLinkedin%20banner.jpg)
